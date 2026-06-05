@@ -1,0 +1,42 @@
+# Hugo 生成文件
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+.hugo_build.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+
+# Vim
+*.swp
+*.swo
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+.env.local

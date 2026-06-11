@@ -101,7 +101,7 @@ comments = false
 [[params.socialIcons]]
 name = "github"
 title = "My Github."
-url = "https://github.com/Hlxuan."
+url = "https://github.com/Hlxuan"
 
 [[params.socialIcons]]
   name = "other"
